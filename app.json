@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-environment-01",
+    "slug": "react-native-environment-01",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-environment-01"
+}
